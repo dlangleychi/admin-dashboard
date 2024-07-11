@@ -161,6 +161,7 @@
     background-color: whitesmoke;
     height: 200px;
     border-radius: 8px;
+    border-left: 8px solid rgb(225, 209, 30);
     box-shadow: 3px 3px 2px grey;
     padding: 8px;
     
